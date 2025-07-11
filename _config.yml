@@ -1,10 +1,10 @@
 # Basic Information 
-title: Yaoyao Liu
-position: Assistant Professor
-affiliation: University of Illinois
-affiliation_link: https://www.illinois.edu/
-affiliation_logo: ./assets/img/illinois.svg
-email: lyy (at) illinois.edu
+title: Mahmudul Hoque
+position: Former Graduate Teaching
+affiliation: Morgan State University
+affiliation_link: https://www.morgan.edu/
+# affiliation_logo: ./assets/img/Morgan_State_University_Logo.svg.png
+email: mahoq1@morgan.edu
 
 # Search Engine Optimization (SEO)
 keywords: yaoyao liu, liu yaoyao, yaoyaoliu, liuyaoyao
@@ -19,16 +19,15 @@ enable_last_update: false
 
 # Links
 link_type: icon #text/icon
-google_scholar: https://scholar.google.com/citations?user=Qi2PSmEAAAAJ
-github_link: https://github.com/yaoyao-liu/
-linkedin: https://www.linkedin.com/in/liuyaoyao/
-twitter: https://twitter.com/YaoyaoLiu1/
+google_scholar: https://scholar.google.com/citations?user=VLEeZg8AAAAJ&hl=en
+# github_link: https://github.com/mahmudulhoque/
+linkedin: https://www.linkedin.com/in/mahmudul-hoque-40504595/
 
 # Images 
-avatar: https://img.yliu.me/avatar_new.jpg
+avatar: ./assets/img/Mahmud_Profic.jpg
 
 # Footnotes
-footnote: Feel free to use my website's source code.
+footnote: This Wesbite is made from.
 footnote_link: https://github.com/yaoyao-liu/minimal-light
 
 # Analytics
