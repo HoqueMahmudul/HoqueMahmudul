@@ -19,3 +19,11 @@ main:
     conference_short: "DAM 2025"
     pdf: "https://doi.org/10.1007/978-981-96-3358-6_23"
     # image: "/assets/img/papers/skinlesion2025.png"
+
+    
+  - title: "Lower Back Pain Prediction Applying Different Classification Algorithm Using WEKA"
+    authors: "<strong> M. Hoque </strong>, B. Sarker, N. B. Sharif, M. M. Billah, A. D. Nath"
+    conference: "Proceedings of Data Analytics and Management, Springer Nature"
+    conference_short: "DAM 2025"
+    pdf: "https://doi.org/10.1007/978-981-96-3372-2_24"
+    # image: "/assets/img/papers/backpain2025.png"
