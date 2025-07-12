@@ -8,8 +8,8 @@ email: mahoq1@morgan.edu
 
 # Search Engine Optimization (SEO)
 keywords: Mahmudul Hoque, Hoque Mahmudul, Mahmudul, Mahmud, mahoq, Hoque
-canonical: https://yaoyaoliu.web.illinois.edu
-description: Yaoyao Liu is an assistant professor at the University of Illinois Urbana-Champaign. His research lies in meta-learning, incremental learning, and image generation.
+canonical: https://hoquemahmudul.github.io/HoqueMahmudul/
+description: Mahmudul Hoque is a recent graduate from Morgan State University. His research lies in meta-learning, incremental learning, and image generation.
 
 # The option is used to enable the Illinois template.
 enable_hopkins_logo: true
@@ -20,7 +20,7 @@ enable_last_update: false
 # Links
 link_type: icon #text/icon
 google_scholar: https://scholar.google.com/citations?user=VLEeZg8AAAAJ&hl=en
-# github_link: https://github.com/mahmudulhoque/
+github_link: https://github.com/hoquemahmudul/
 linkedin: https://www.linkedin.com/in/mahmudul-hoque-40504595/
 
 # Images 
